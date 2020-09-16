@@ -47,7 +47,6 @@ C:\Users\m19an\source\repos\FamilyTree2\bin\Debug\netcoreapp3.1\FamilyTree.Views
 C:\Users\m19an\source\repos\FamilyTree2\obj\Debug\netcoreapp3.1\FamilyTree.csprojAssemblyReference.cache
 C:\Users\m19an\source\repos\FamilyTree2\obj\Debug\netcoreapp3.1\staticwebassets\FamilyTree.StaticWebAssets.Manifest.cache
 C:\Users\m19an\source\repos\FamilyTree2\obj\Debug\netcoreapp3.1\staticwebassets\FamilyTree.StaticWebAssets.xml
-C:\Users\m19an\source\repos\FamilyTree2\obj\Debug\netcoreapp3.1\FamilyTree.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\m19an\source\repos\FamilyTree2\obj\Debug\netcoreapp3.1\FamilyTree.RazorAssemblyInfo.cache
 C:\Users\m19an\source\repos\FamilyTree2\obj\Debug\netcoreapp3.1\FamilyTree.RazorAssemblyInfo.cs
 C:\Users\m19an\source\repos\FamilyTree2\obj\Debug\netcoreapp3.1\FamilyTree.AssemblyInfoInputs.cache
@@ -68,3 +67,4 @@ C:\Users\m19an\source\repos\FamilyTree2\obj\Debug\netcoreapp3.1\FamilyTree.Views
 C:\Users\m19an\source\repos\FamilyTree2\obj\Debug\netcoreapp3.1\FamilyTree.dll
 C:\Users\m19an\source\repos\FamilyTree2\obj\Debug\netcoreapp3.1\FamilyTree.pdb
 C:\Users\m19an\source\repos\FamilyTree2\obj\Debug\netcoreapp3.1\FamilyTree.csproj.CopyComplete
+C:\Users\m19an\source\repos\FamilyTree2\obj\Debug\netcoreapp3.1\FamilyTree.MvcApplicationPartsAssemblyInfo.cache

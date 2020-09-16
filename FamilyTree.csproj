@@ -19,6 +19,13 @@
     <None Include="wwwroot\sample.html" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="wwwroot\sample.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
 
 
 </Project>
